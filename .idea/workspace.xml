@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03e967f5-81ca-4528-aeec-c3efeca94028" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Wcf148018h97iEqFvX1iEGWm32" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Application.SocialApplication">
+    <configuration name="SocialApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sut.ism81z.maslakoviv.lesson03.SocialApplication" />
+      <module name="lesson03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sut.ism81z.maslakoviv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sut.ism81z.maslakoviv in lesson03" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="lesson03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sut.ism81z.maslakoviv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sut.ism81z.maslakoviv" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SocialApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03e967f5-81ca-4528-aeec-c3efeca94028" name="Default Changelist" comment="" />
+      <created>1579453585149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579453585149</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1798" y="166" key="#Project_Structure" timestamp="1579453691134">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1798" y="166" key="#Project_Structure/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1579453691134" />
+    <state x="1714" y="103" key="CommitChangelistDialog2" timestamp="1579464962314">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1714" y="103" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1579464962314" />
+    <state width="1637" height="326" key="GridCell.Tab.0.bottom" timestamp="1579464612651">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="326" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1579464612651" />
+    <state width="1637" height="326" key="GridCell.Tab.0.center" timestamp="1579464612651">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="326" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1579464612651" />
+    <state width="1637" height="326" key="GridCell.Tab.0.left" timestamp="1579464612651">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="326" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1579464612651" />
+    <state width="1637" height="326" key="GridCell.Tab.0.right" timestamp="1579464612651">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="326" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1579464612651" />
+    <state width="1637" height="336" key="GridCell.Tab.1.bottom" timestamp="1579463119812">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1579463119812" />
+    <state width="1637" height="336" key="GridCell.Tab.1.center" timestamp="1579463119812">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1579463119812" />
+    <state width="1637" height="336" key="GridCell.Tab.1.left" timestamp="1579463119812">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1579463119812" />
+    <state width="1637" height="336" key="GridCell.Tab.1.right" timestamp="1579463119812">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1579463119812" />
+    <state x="1736" y="162" key="Maven.ArtifactSearchDialog" timestamp="1579458734802">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1736" y="162" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1579458734802" />
+    <state x="1709" y="150" key="SettingsEditor" timestamp="1579464599648">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1709" y="150" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1579464599648" />
+  </component>
+</project>
